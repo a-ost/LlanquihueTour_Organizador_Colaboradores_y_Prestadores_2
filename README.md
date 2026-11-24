@@ -62,5 +62,3 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 
 
-# LlanquihueTour_Organizador_Colaboradores_y_Prestadores_2
-Programa desarrollado para facilitar la organización a la empresa Llanquihue Tour
