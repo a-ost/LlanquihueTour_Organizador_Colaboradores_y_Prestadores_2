@@ -53,7 +53,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/a-ost/LlanquihueTour_Organizador_Colaboradores_y_Prestadores_2]
 **Fecha de entrega:** \[23/11/2026]
 
 ---
