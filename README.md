@@ -1,2 +1,66 @@
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+# 🧠 Evaluación Sumativa Semana 5 – Desarrollo Orientado a Objetos I
+
+## 👤 Autor del proyecto
+- **Nombre completo:** [Almendra Ostornol Concha]
+- **Sección:** [004A]
+- **Carrera:** Analista programador computacional
+- **Sede:** [Campus Virtual]
+
+---
+
+## 📘 Descripción general del sistema
+Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
+
+El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+
+---
+
+## 🧱 Estructura general del proyecto
+
+```plaintext
+📁 src/main/java/
+├── cl.llanquihuetour.organizador
+│   ├── app/      Main
+│   ├── data/     TourArchivo
+│   ├── model/    Colaboradores, Direccion, Guias, Operadores,
+│   │             ProvAlojamiento, Proveedores (abstracta),
+│   │             ProvTransporte, Rut
+│   ├── service/  GestorTour
+│   └── util/     RutInvalidoException, Validador
+````
+
+---
+
+
+
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub:
+
+```bash
+
+```
+
+2. Abre el proyecto en IntelliJ IDEA.
+
+3. Verifica que los archivos `.csv` estén correctamente ubicados.
+
+4. Ejecuta el archivo `Main.java` desde el paquete `app`.
+
+5. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+
+
+---
+
+**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Fecha de entrega:** \[23/11/2026]
+
+---
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+
+
+
 # LlanquihueTour_Organizador_Colaboradores_y_Prestadores_2
 Programa desarrollado para facilitar la organización a la empresa Llanquihue Tour
